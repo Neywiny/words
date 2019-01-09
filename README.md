@@ -1,5 +1,5 @@
 # words
-a simple program that solves the spelling bee game in the Wahington Post magazine
+a simple program that solves the spelling bee game in the New York Times magazine
 
 ## example of a puzzle:
 
